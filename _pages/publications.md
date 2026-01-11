@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-For a complete list of publications, please see my  
-**[Google Scholar profile]({{ site.author.googlescholar }})**.
+For a complete list of publications, please see my **[Google Scholar profile]({{ site.author.googlescholar }})**.
 {% endif %}
 
 Journal Articles
