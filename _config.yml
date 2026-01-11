@@ -26,7 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Ryohei Nagahiro"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher \n  Shiomi-Lab \n Institute of Engineering Innovation \n Graduate School of Engineering \n The University of Tokyo"
+  bio              : | 
+    Postdoctoral Researcher
+    Shiomi-Lab
+    Institute of Engineering Innovation
+    Graduate School of Engineering
+    The University of Tokyo
                       
   location         : #"Earth"
   employer         : #
