@@ -26,15 +26,17 @@ author:
   avatar           : "profile.png"
   name             : "Ryohei Nagahiro"
   pronouns         : # example: "she/her"  
-  bio              : "Thermal transport, Thermoelectrics, Silicon"
+  bio              : |
+                      Postdoctoral Researcher  
+                      Institute of Engineering Innovation  
+                      Graduate School of Engineering, The University of Tokyo 
+
+                      nagahiro-r[at]photon.t.u-tokyo.ac.jp
+                      
   location         : #"Earth"
-  employer         : |
-                      Postdoctoral Researcher
-                      Institute of Engineering Innovation
-                      Graduate School of Engineering
-                      The University of Tokyo
+  employer         : #
   uri              : # URL
-  email            : "nagahiro-r[at]photon.t.u-tokyo.ac.jp" 
+  email            : #"nagahiro-r[at]photon.t.u-tokyo.ac.jp" 
 
   # Academic websites
   academia         : # URL
