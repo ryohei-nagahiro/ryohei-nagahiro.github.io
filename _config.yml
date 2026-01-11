@@ -23,7 +23,7 @@ repository               : "ryohei-nagahiro/ryohei-nagahiro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo-Nagahiro.png"
   name             : "Ryohei Nagahiro"
   pronouns         : # example: "she/her"  
   bio              : | 
