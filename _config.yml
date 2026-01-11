@@ -26,17 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Ryohei Nagahiro"
   pronouns         : # example: "she/her"  
-  bio              : |
-                      Postdoctoral Researcher  
-                      Institute of Engineering Innovation  
-                      Graduate School of Engineering, The University of Tokyo 
-
-                      nagahiro-r[at]photon.t.u-tokyo.ac.jp
+  bio              : "Postdoctoral Researcher \n  Shiomi-Lab \n Institute of Engineering Innovation \n Graduate School of Engineering \n The University of Tokyo"
                       
   location         : #"Earth"
   employer         : #
   uri              : # URL
-  email            : #"nagahiro-r[at]photon.t.u-tokyo.ac.jp" 
+  email            : "nagahiro-r@photon.t.u-tokyo.ac.jp" 
 
   # Academic websites
   academia         : # URL
