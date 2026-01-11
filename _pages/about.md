@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "※The website is under construction." <!-- "Welcome to My Research Website" -->
+title: "※The website is under construction." 
 author_profile: true
 redirect_from: 
   - /about/
