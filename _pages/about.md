@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "※The website is under construction." 
+title: "Welcome" 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+※The website is under construction.
 I am Ryohei Nagahiro, a postdoctoral researcher at the University of Tokyo, specializing in thermal transport at interfaces and thermoelectric materials. My research focuses on understanding and controlling nanoscale heat transport, with particular emphasis on thermal boundary resistance in bulk and polycrystalline silicon. I develop and apply advanced optical thermal metrology, including the Gibbs Excess approach, to reveal local energy dissipation mechanisms relevant to sustainable energy and device design.
 
 Research Interests
