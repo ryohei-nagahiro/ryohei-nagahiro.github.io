@@ -7,15 +7,18 @@ author: author_jp
 
 ---
 
-※The website is under construction.
+About
 -------
 界面における熱輸送現象および熱電材料を専門とし，ナノスケールにおける熱輸送の理解と制御を研究しています．特に，バルクおよび多結晶シリコンにおける熱境界抵抗に着目し，持続可能なエネルギー変換やデバイス設計に資する局所的なエネルギー散逸機構の解明を目的として，Gibbs excess法を含む高度な光学的熱計測手法の開発と応用を行っています．
 
 研究分野
 ------
+- シリコン熱電材料
 - 界面・粒界における熱輸送および熱境界抵抗 
 - 空間分解熱計測（周波数領域サーモリフレクタンス：FDTR）  
 - 吸湿性材料中の物質輸送
+
+![Research topics schematic](/images/Schematic.png){: style="max-width:900px;width:100%;height:auto;display:block;margin:18px auto;" }
 
 代表的な論文
 ------
