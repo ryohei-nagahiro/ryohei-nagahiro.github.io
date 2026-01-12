@@ -3,16 +3,8 @@ permalink: /jp/
 title: "Welcome" 
 author_profile: true
 lang: jp
-author:
-  name: "永廣 怜平"
-  bio: |
-    東京大学 工学系研究科
-    総合研究機構　塩見研究室
-    特任研究員
-    
-redirect_from: 
-  - /about/
-  - /about.html
+author: author_jp
+
 ---
 ※The website is under construction.
 -------
