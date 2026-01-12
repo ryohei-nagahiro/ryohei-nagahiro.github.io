@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /jp/
 title: "Welcome" 
 author_profile: true
 lang: jp
