@@ -1,12 +1,11 @@
 {% include base_path %}
 
 {% assign author = site.author %}
-{% if page.lang == "jp" and site.author_jp %}
-  {% assign author = site.author_jp %}
-{% endif %}
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% if page.author and site[page.author] %}
+  {% assign author = site[page.author] %}
+{% elsif page.lang == "jp" and site.author_jp %}
+  {% assign author = site.author_jp %}
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
