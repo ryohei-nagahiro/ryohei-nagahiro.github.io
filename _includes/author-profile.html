@@ -1,8 +1,8 @@
 {% include base_path %}
 
 {% assign author = site.author %}
-{% if page.author %}
-  {% assign author = site[page.author] %}
+{% if page.lang == "jp" and site.author_jp %}
+  {% assign author = site.author_jp %}
 {% endif %}
 
 {% if page.author and site.data.authors[page.author] %}
