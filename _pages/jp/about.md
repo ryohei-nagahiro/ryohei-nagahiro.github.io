@@ -6,7 +6,6 @@ lang: jp
 author: author_jp
 
 ---
-<p>DEBUG: page.author={{ page.author }} / has={{ site[page.author].name }}</p>
 
 ※The website is under construction.
 -------
