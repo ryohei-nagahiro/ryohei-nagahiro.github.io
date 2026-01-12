@@ -18,6 +18,16 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio | newline_to_br }}</p>{% endif %}
+
+    {% if page.lang == "en" %}
+      <p class="author__bio" style="margin-top:6px;">
+      <a href="/jp/">JP</a>
+      </p>
+    {% elsif page.lang == "ja" %}
+      <p class="author__bio" style="margin-top:6px;">
+      <a href="/">EN</a>
+      </p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
