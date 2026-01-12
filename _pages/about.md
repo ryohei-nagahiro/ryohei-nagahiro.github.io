@@ -15,7 +15,9 @@ Research Interests
 ------
 - Interfacial thermal transport and thermal boundary resistance
 - Spatially resolved thermal metrology (FDTR, thermoreflectance)  
-- Mass transport in hygroscopic materials 
+- Mass transport in hygroscopic materials
+
+![Research topics schematic](/images/Schematic.png){: style="max-width:900px;width:100%;height:auto;display:block;margin:18px auto;" }
 
 Representative Publications
 ------
