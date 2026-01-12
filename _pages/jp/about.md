@@ -6,6 +6,8 @@ lang: jp
 author: author_jp
 
 ---
+<p>DEBUG: page.author={{ page.author }} / has={{ site[page.author].name }}</p>
+
 ※The website is under construction.
 -------
 界面における熱輸送現象および熱電材料を専門とし，ナノスケールにおける熱輸送の理解と制御を研究しています．特に，バルクおよび多結晶シリコンにおける熱境界抵抗に着目し，持続可能なエネルギー変換やデバイス設計に資する局所的なエネルギー散逸機構の解明を目的として，Gibbs excess法を含む高度な光学的熱計測手法の開発と応用を行っています．
