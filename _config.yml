@@ -66,7 +66,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/ryohei.nagahiro.1/"
+  facebook         : "ryohei.nagahiro.1"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -74,7 +74,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://jp.linkedin.com/in/ryohei-nagahiro-432804398"
+  linkedin         : "ryohei-nagahiro-432804398"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -134,7 +134,7 @@ author_jp:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/ryohei.nagahiro.1/"
+  facebook         : "ryohei.nagahiro.1"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -142,7 +142,7 @@ author_jp:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://jp.linkedin.com/in/ryohei-nagahiro-432804398"
+  linkedin         : "ryohei-nagahiro-432804398"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
