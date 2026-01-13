@@ -42,6 +42,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=d8n0PsUAAAAJ&hl=en"
+  researchmap      : "https://researchmap.jp/ryohei-nagahiro?lang=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-2266-3995"
@@ -51,6 +52,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  lab              : "https://www.phonon.t.u-tokyo.ac.jp/en/"
 
 
   # Repositories and software development
@@ -108,6 +110,7 @@ author_jp:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=d8n0PsUAAAAJ&hl=en"
+  researchmap      : "https://researchmap.jp/ryohei-nagahiro"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-2266-3995"
@@ -117,6 +120,7 @@ author_jp:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  lab              : "https://www.phonon.t.u-tokyo.ac.jp"
 
 
   # Repositories and software development
