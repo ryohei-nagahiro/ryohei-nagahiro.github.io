@@ -78,6 +78,13 @@
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
+      
+      <!-- Add my self -->
+      {% if author.researchmap %}
+        <li><a href="{{ author.researchmap }}" rel="nofollow noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i>Researchmap</a></li>
+      {% endif %}
+        {% if author.lab %}<li><a href="{{ author.lab }}" rel="nofollow noopener noreferrer"><i class="fas fa-flask" aria-hidden="true"></i>Laboratory</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
