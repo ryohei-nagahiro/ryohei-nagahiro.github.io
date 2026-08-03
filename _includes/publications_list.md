@@ -4,7 +4,7 @@ For a complete list of publications, please see my **[Google Scholar profile]({{
 
 Journal Articles
 -----------------------
-1. M. Sasaki, K. Shizume†, **R. Nagahiro**, J. Shiomi and M. Goto, 
+1. M. Sasaki, K. Shizume, **R. Nagahiro**, J. Shiomi and M. Goto, 
    “Control of thermal conductivity in amorphous silicon oxide and silicon oxynitride thin films via ubiquitous transition metal doping”,
    Japanese Journal of Applied Physics 65(11), 115502, (2025). [https://doi.org/10.35848/1347-4065/ae6e81](https://doi.org/10.35848/1347-4065/ae6e81)
 

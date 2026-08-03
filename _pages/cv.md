@@ -5,7 +5,6 @@ author_profile: true
 ---
 📄 **[Download CV (PDF)](/files/cv.pdf)**
 
-_Last updated: Jan. 12, 2026_
 
 Education
 ----------------
@@ -21,7 +20,7 @@ Experience
 Assistant Professor, Toyota Technological Institute, Aug. 2026 – Present.
 - Department of Mechanical Engineering (Mechanical Properties of Materials Laboratory)
 
-Postdoctoral Researcher, The University of Tokyo, Aug. 2025 – . 2026.
+Postdoctoral Researcher, The University of Tokyo, Aug. 2025 – Jul. 2026.
 - Thermal transport measurements using TDTR/FDTR and thermo-optic techniques  
 - Interface and composite thermal property evaluation  
 

@@ -3,10 +3,7 @@ title: "略歴"
 permalink: /jp/cv/
 author_profile: true
 ---
-※準備中
-📄 **[履歴書PDFをダウンロード](/files/CV_Ryohei_Nagahiro.pdf)**
-
-_最終更新日: 2026年8月3日_
+📄 **[履歴書PDFをダウンロード](/files/cv.pdf)**
 
 Education
 ----------------
