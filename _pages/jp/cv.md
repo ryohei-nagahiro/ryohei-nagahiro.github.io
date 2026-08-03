@@ -1,6 +1,6 @@
 ---
 title: "略歴"
-permalink: /ja/cv/
+permalink: /jp/cv/
 author_profile: true
 ---
 ※準備中
