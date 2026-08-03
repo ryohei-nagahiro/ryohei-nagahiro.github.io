@@ -10,13 +10,17 @@ For a complete list of publications, please see my **[Google Scholar profile]({{
 
 Journal Articles
 -----------------------
+1. M. Sasaki, K. Shizume†, **R. Nagahiro**, J. Shiomi and M. Goto, 
+   “Control of thermal conductivity in amorphous silicon oxide and silicon oxynitride thin films via ubiquitous transition metal doping”,
+   Japanese Journal of Applied Physics 65(11), 115502, (2025). [https://doi.org/10.35848/1347-4065/ae6e81](https://doi.org/10.35848/1347-4065/ae6e81)
+
 1.	A. R. Odufisan, B. Stern, **R. Nagahiro**, R. Wynnychenko, S. Chanakian, J. Shiomi, E. Isotta, O. Balogun,
    “The Frequency Domain Thermoreflectance Technique for Thermal Property Measurements”,
   	Journal of Visualized Experiments (JoVE) (226), e68908, (2025). [https://doi.org/10.3791/68908](https://doi.org/10.3791/68908)
    	
 1.	**R. Nagahiro**, B. Xu, S. Terashima, Y. Li, Y. Li, Y. Liao, Z. Fang, C. Shao, M. Ohnishi, S. Kato, E. Iwase, J. Shiomi,
    “Module-scale silicon 3D softened nanoarchitectures for eco-friendly thermoelectric energy harvesting”,
-   Materials Today Physics, 57, 101798, (2025). [https://doi.org/10.1016/j.mtphys.2025.101798](https://doi.org/10.1016/j.mtphys.2025.101798)
+   Materials Today Physics 57, 101798, (2025). [https://doi.org/10.1016/j.mtphys.2025.101798](https://doi.org/10.1016/j.mtphys.2025.101798)
    	
 1.	E. Isotta, **R. Nagahiro**, A. R. Odufisan, J. Shiomi, O. Balogun, G. J. Snyder,
    “A thermal boundary resistance model via mean free path suppression functions and a Gibbs excess approach”,

@@ -1,0 +1,39 @@
+# english
+en:
+  - date: "2026-07-01"
+    text: "Appointed as Assistant Professor at Toyota Technological Institute."
+
+  - date: "2026-06-15"
+    text: "Presented at the US-Japan Seminar on Nanoscale Transport Phenomena."
+    link: "https://sites.google.com/view/usj2026/"
+
+  - date: "2026-05-28"
+    text: "Presented at the National Heat Transfer Symposium of Japan."
+    link: "https://pub.confit.atlas.jp/ja/event/htsj2026"
+
+  - date: "2026-05-15"
+    text: "A co-authored paper was published in Japanese Journal of Applied Physics."
+    link: "https://doi.org/10.35848/1347-4065/ae6e81"
+
+  - date: "2026-01-12"
+    text: "Personal website launched."
+
+# japanses
+jp:
+  - date: "2026-07-01"
+    text: "豊田工業大学 大学院工学研究科 助教に着任しました．"
+
+  - date: "2026-06-15"
+    text: "US-Japan Seminar (日米ナノスケール熱輸送セミナー) に参加・発表しました．"
+    link: "https://sites.google.com/view/usj2026/"
+
+  - date: "2026-05-28"
+    text: "第63回 日本伝熱シンポジウムにて研究発表を行いました．
+    link: "https://pub.confit.atlas.jp/ja/event/htsj2026"
+
+  - date: "2026-05-15"
+    text: "共著論文がJapanese Journal of Applied Physics誌に掲載されました."
+    link: "https://doi.org/10.35848/1347-4065/ae6e81"
+
+  - date: "2026-01-12"
+    text: "研究者個人サイトを公開しました．"

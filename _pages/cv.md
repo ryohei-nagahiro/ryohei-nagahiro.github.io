@@ -19,11 +19,14 @@ Education
 
 Experience
 ----------------
-Postdoctoral Researcher, The University of Tokyo, Aug. 2025 – Present. 
+Assistant Professor, Toyota Technological Institute, Aug. 2026 – Present.
+- Department of Mechanical Engineering (Mechanical Properties of Materials Laboratory)
+
+Postdoctoral Researcher, The University of Tokyo, Aug. 2025 – . 2026.
 - Thermal transport measurements using TDTR/FDTR and thermo-optic techniques  
 - Interface and composite thermal property evaluation  
 
-Visiting Scholar, University of Illinois Urbana–Champaign, Oct. 2025.
+Visiting Scholar, University of Illinois Urbana–Champaign, Oct. 2025., May 2026.
 - Mass and heat transport in cellulose nanofiber films  
 - Immersion Thermo-Optic Phase Spectroscopy (I-TOPS) under controlled humidity  
 
@@ -43,3 +46,4 @@ Professional Memberships
 - The Heat Transfer Society of Japan  
 - The Japan Society of Applied Physics  
   - Phonon Engineering Research Group
+- The Thermoelectrics Society of Japan

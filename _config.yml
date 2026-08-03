@@ -27,16 +27,14 @@ author:
   name             : "Ryohei Nagahiro"
   pronouns         : # example: "she/her"  
   bio              : | 
-    Postdoctoral Researcher
-    Shiomi-Lab
-    Institute of Engineering Innovation
-    Graduate School of Engineering
-    The University of Tokyo
+    Assistant Professor
+    Mechanical Material Engineering Laboratory
+    Toyota Technological Institute
                       
-  location         : #"Earth"
+  location         : "Nagoya, Japan"
   employer         : #
   uri              : # URL
-  email            : "nagahiro-r@photon.t.u-tokyo.ac.jp" 
+  email            : "nagahiro@toyota-ti.ac.jp"
 
   # Academic websites
   academia         : # URL
@@ -52,14 +50,14 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  lab              : "https://www.phonon.t.u-tokyo.ac.jp/en/"
+  lab              : "https://mme-lab.github.io/"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "ryohei-nagahiro"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -97,14 +95,13 @@ author_jp:
   name             : "永廣 怜平"
   pronouns         : # example: "she/her"  
   bio              : | 
-    東京大学 工学系研究科
-    総合研究機構　塩見研究室
-    特任研究員
-    
-  location         : #"Earth"
+    豊田工業大学 大学院工学研究科
+    機械システム分野 機械材料物性研究室
+    助教
+  location         : "愛知県名古屋市"
   employer         : #
   uri              : # URL
-  email            : "nagahiro-r@photon.t.u-tokyo.ac.jp" 
+  email            : "nagahiro@toyota-ti.ac.jp"
 
   # Academic websites
   academia         : # URL
@@ -120,14 +117,14 @@ author_jp:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
-  lab              : "https://www.phonon.t.u-tokyo.ac.jp"
+  lab              : "https://mme-lab.github.io/"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "ryohei-nagahiro"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -298,16 +295,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -378,7 +375,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
