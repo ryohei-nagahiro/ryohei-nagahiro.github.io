@@ -37,9 +37,8 @@ E. Isotta, S. Jiang, R. Bueno Villoro, **R. Nagahiro**, K. Maeda, D. A. Mattlat,
 
 News
 ------
-------
 {% for item in site.data.news.en limit: 5 %}
-- **{{ item.date }}**: {{ item.text }}{% if item.link %} [<a href="{{ item.link }}" target="_blank">Link</a>]{% endif %}
+- **{{ item.date }}**: {{ item.text }}{% if item.link and item.link != "" %}<br>&nbsp;&nbsp;&nbsp;&nbsp;[<a href="{{ item.link }}" target="_blank">Link</a>]{% endif %}
 {% endfor %}
 
 [View all news »](/news/)

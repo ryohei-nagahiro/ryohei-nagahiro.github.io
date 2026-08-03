@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 #
 # NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+#       Markdown formatted page while the second is generated using JSON.
 
 main:
   - title: "Home"
@@ -14,7 +14,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conference"
+  - title: "Conferences"
     url: /conferences/    
 
   - title: "Curriculum Vitae"
@@ -24,23 +24,24 @@ main:
   #   url: /cv-json/
     
   # - title: "News"
-  # url: /news/
+  #   url: /news/
 
   - title: "🌐 JP"
     url: /jp/
+
 # 日本語用ナビゲーション
 main_jp:
   - title: "ホーム"
-    url: /index_jp/
+    url: /jp/
 
   - title: "研究業績"
-    url: /publications/    # ⬅ 英語ページ共通
+    url: /jp/publications/    # ⬅ /jp/ を付与
 
   - title: "学会発表"
-    url: /talks/           # ⬅ 英語ページ共通
+    url: /jp/conferences/     # ⬅ /jp/ を付与
     
   - title: "経歴"
-    url: /cv_jp/
+    url: /jp/cv/
 
   - title: "🌐 EN"
     url: /
