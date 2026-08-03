@@ -3,8 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-※under preparation
-📄 **[Download CV (PDF)](/files/CV_Ryohei_Nagahiro.pdf)**
+📄 **[Download CV (PDF)](/files/cv.pdf)**
 
 _Last updated: Jan. 12, 2026_
 
